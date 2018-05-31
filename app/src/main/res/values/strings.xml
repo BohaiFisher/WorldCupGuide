@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">WorldCupGuide</string>
+
+    <string name="country_first_grade">俄罗斯\n德国\n巴西\n葡萄牙\n阿根廷\n比利时\n波兰\n法国</string>
+    <string name="country_second_grade">西班牙\n秘鲁\n瑞士\n英格兰\n哥伦比亚\n墨西哥\n乌拉圭\n克罗地亚</string>
+    <string name="country_third_grade">丹麦\n冰岛\n哥斯达黎加\n瑞典\n突尼斯\n埃及\n塞内加尔\n伊朗</string>
+    <string name="country_fourth_grade">塞尔维亚\n尼日利亚\n澳大利亚\n日本\n摩洛哥\n巴拿马\n韩国\n沙特阿拉伯</string>
+
+    <string name="country_group_a">俄罗斯\n乌拉圭\n埃及\n沙特阿拉伯</string>
+    <string name="country_group_b">葡萄牙\n西班牙\n伊朗\n摩洛哥</string>
+    <string name="country_group_c">法国\n秘鲁\n丹麦\n澳大利亚</string>
+    <string name="country_group_d">阿根廷\n克罗地亚\n冰岛\n尼日利亚</string>
+    <string name="country_group_e">巴西\n瑞士\n哥斯达黎加\n塞尔维亚</string>
+    <string name="country_group_f">德国\n墨西哥\n瑞典\n韩国</string>
+    <string name="country_group_g">比利时\n英格兰\n突尼斯\n巴拿马</string>
+    <string name="country_group_h">波兰\n哥伦比亚\n塞内加尔\n日本</string>
+
+    <string name="team_europe">比利时\n德国\n英格兰\n西班牙\n波兰\n冰岛\n塞尔维亚\n葡萄牙\n法国\n瑞士\n克罗地亚\n瑞典\n丹麦</string>
+    <string name="team_host">俄罗斯</string>
+    <string name="team_asia">伊朗\n日本\n韩国\n沙特阿拉伯\n澳大利亚</string>
+    <string name="team_africa">尼日利亚\n埃及\n塞内加尔\n摩洛哥\n突尼斯</string>
+    <string name="team_south_america">巴西\n乌拉圭\n阿根廷\n哥伦比亚\n秘鲁</string>
+    <string name="team_middle_north_america_and_caribbean">墨西哥\n哥斯达黎加\n巴拿马</string>
+
 </resources>
